@@ -1,0 +1,105 @@
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\bin\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\bin\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game menu.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game menu.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.movie.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.game.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game menu.exe
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game menu.pdb
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\bin\Debug\Game menu.exe
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\bin\Debug\Game menu.pdb
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.game.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.movie.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+C:\Users\toshiba\Desktop\Atestat - Titans and Gods\Game menu\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+M:\Arthemis Hapa\Info\Atestat_C#\Game menu\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game menu.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.game.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.movie.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game menu.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\bin\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\bin\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Film\Game menu\Game menu\obj\x86\Debug\Game_menu.stage6.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Game menu\Game menu\bin\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Game menu\Game menu\bin\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game menu.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.game.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.movie.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.stage6.resources
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game menu.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\Game menu\Game menu\obj\x86\Debug\Game_menu.final.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\bin\Debug\Game menu.exe
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\bin\Debug\Game menu.pdb
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game menu.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.final.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.game.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.movie.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game_menu.stage6.resources
+C:\Users\toshiba\Desktop\Greek Odyssey\Game menu\obj\x86\Debug\Game menu.csproj.GenerateResource.Cache
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\bin\Debug\Game menu.exe
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\bin\Debug\Game menu.pdb
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game menu.csprojResolveAssemblyReference.cache
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.final.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.Form1.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.game.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.movie.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.movie2.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.Properties.Resources.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage1.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage2.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage3.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage4.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage5.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game_menu.stage6.resources
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game menu.csproj.GenerateResource.Cache
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game menu.csproj.CoreCompileInputs.cache
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game menu.exe
+C:\Users\Arthemis\Desktop\Faculty\C#\Game menu\obj\x86\Debug\Game menu.pdb
